@@ -1,5 +1,10 @@
 # 🔄 Documentación de Pruebas - Replicación Heterogénea
 
+## 📂 Repositorio
+**GitHub:** https://github.com/Wadriiid/EXAMEN-2P-C4.git
+
+---
+
 ## Información del Proyecto
 
 | Campo | Valor |
